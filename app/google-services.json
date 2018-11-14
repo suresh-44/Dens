@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "339643590065",
+    "firebase_url": "https://dens-222317.firebaseio.com",
+    "project_id": "dens-222317",
+    "storage_bucket": "dens-222317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339643590065:android:676b3c485cfa6111",
+        "android_client_info": {
+          "package_name": "com.example.redwings.dengue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339643590065-qsr26b1rcs5l5rfqcp8n0i743eirr2c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq_xVMcaWxkLjIj7K-BkoChmm97mmkpn4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
