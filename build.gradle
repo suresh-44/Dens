@@ -7,8 +7,13 @@ buildscript {
         jcenter()
     }
     dependencies {
+<<<<<<< HEAD
         classpath 'com.android.tools.build:gradle:3.2.1'
 //        compile 'com.google.android.gms:play-services-auth:15.0.1'
+=======
+        classpath 'com.android.tools.build:gradle:3.0.1'
+        classpath 'com.google.gms:google-services:3.0.0'
+>>>>>>> 800d23b7996b92fa32f81131180b2878b96a7a77
         
 
         // NOTE: Do not place your application dependencies here; they belong

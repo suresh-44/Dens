@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Dengue</string>
     <string name="slogin">No matter where you are, Get a instant real time dengue density on a tip of your phone.</string>
+    <string name="server_clientid">339643590065-or64v12kfpu7iloc9iffckgb2o3v4pdg.apps.googleusercontent.com</string>
 </resources>
