@@ -2,4 +2,12 @@
     <string name="app_name">Dengue</string>
     <string name="slogin">No matter where you are, Get a instant real time dengue density on a tip of your phone.</string>
     <string name="server_clientid">339643590065-or64v12kfpu7iloc9iffckgb2o3v4pdg.apps.googleusercontent.com</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_navigate">Navigate</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
 </resources>
